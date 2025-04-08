@@ -1,22 +1,21 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
+# yangshun:
+#   name: Yangshun Tay
+#   title: Front End Engineer @ Facebook
+#   url: https://github.com/yangshun
+#   image_url: https://github.com/yangshun.png
+#   page: true
+#   socials:
+#     x: yangshunz
+#     github: yangshun
 
 jordan:
   name: Jordan H. Lee
   title: FourEyed Owner & Creator
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  # url: https://sebastienlorber.com
+  image_url: https://github.com/jordan-h-lee.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: '/all-jordan-lee-articles'
   socials:
     linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: jordan-h-lee
